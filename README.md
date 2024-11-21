@@ -11,15 +11,16 @@ Developed with scalability and replicability, PIA uses open-source tools, cloud-
 ### Repository Overview
 
 This repository contains:
-- Notebooks: Jupyter notebooks for data analysis, optimization modeling, and visualization.
+- Notebooks: Jupyter notebooks for data analysis, optimization modelling, and visualization.
 - Platform Code: Backend, frontend, and deployment scripts for the PIA web application.
 - Documentation: Technical specifications, user guides, and developer resources.
 - Tests: Unit and integration tests to ensure platform reliability.
 
-**Access to Data**
+### Access to Data
 All datasets required for analysis and platform development are hosted on Google Drive. Please access the data through the link below:
+
 [Access PIA Datasets on Google Drive]()
-*Note: Ensure you have appropriate permissions to access the data.
+#### Note: Ensure you have appropriate permissions to access the data.
 
 ### Folder Structure
 notebooks/: Analytical and visualization scripts for geospatial data.
