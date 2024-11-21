@@ -8,3 +8,29 @@ By integrating global and local datasets, the platform enables:
 
 Developed with scalability and replicability, PIA uses open-source tools, cloud-based architecture, and cutting-edge analytics to support sustainable development goals (SDGs) and climate resilience.
 
+### Repository Overview
+
+This repository contains:
+- Notebooks: Jupyter notebooks for data analysis, optimization modeling, and visualization.
+- Platform Code: Backend, frontend, and deployment scripts for the PIA web application.
+- Documentation: Technical specifications, user guides, and developer resources.
+- Tests: Unit and integration tests to ensure platform reliability.
+
+**Access to Data**
+All datasets required for analysis and platform development are hosted on Google Drive. Please access the data through the link below:
+[Access PIA Datasets on Google Drive]()
+*Note: Ensure you have appropriate permissions to access the data.
+
+### Folder Structure
+notebooks/: Analytical and visualization scripts for geospatial data.
+platform/: Web application code (frontend and backend).
+documentation/: Comprehensive user and developer documentation.
+tests/: Unit and integration tests for maintaining code quality.
+resources/: Additional resources like Figma designs and reports.
+
+### Key Features
+- Data Integration: Combines global geospatial data layers (e.g., OSM, WorldPop) for infrastructure planning.
+- Accessibility Analysis: Optimizes placement of public services like hospitals and schools.
+- Interactive Maps: User-friendly visualizations for decision-makers.
+- Scalable Platform: Built for global replication and country-specific customization.
+
